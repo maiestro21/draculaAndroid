@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dracula", "Dracula\Dracula.csproj", "{D400FD24-2263-4B91-B6B2-A8249F90A34A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D400FD24-2263-4B91-B6B2-A8249F90A34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D400FD24-2263-4B91-B6B2-A8249F90A34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D400FD24-2263-4B91-B6B2-A8249F90A34A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D400FD24-2263-4B91-B6B2-A8249F90A34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D400FD24-2263-4B91-B6B2-A8249F90A34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D400FD24-2263-4B91-B6B2-A8249F90A34A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB65BE32-6771-4FF6-A0FF-831B8B4631F8}
+	EndGlobalSection
+EndGlobal
