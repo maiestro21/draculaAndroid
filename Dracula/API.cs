@@ -44,6 +44,7 @@ namespace Dracula
         public bool SendLocation(string lat, string lon)
         {
 
+
             CNP = ContainsKey.retrive_cnp();
 
             WebClient wc = new WebClient();
